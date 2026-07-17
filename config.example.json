@@ -1,0 +1,7 @@
+{
+  "source": "claude",
+  "planningFieldId": "customfield_XXXXX",
+  "implFieldId": "customfield_YYYYY",
+  "planningRatio": 0.33,
+  "cacheReadWeight": 0.1
+}
