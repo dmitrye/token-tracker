@@ -1,4 +1,4 @@
-# token-tracker
+# Token Tracker (token-tracker)
 
 Agentic skill that measures **real** coding-agent token usage and writes it to a Jira ticket.
 
@@ -118,4 +118,4 @@ a separate, explicit request.
 
 ## License
 
-Apache-2.0
+MIT
